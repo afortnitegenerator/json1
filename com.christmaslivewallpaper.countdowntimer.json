@@ -83,77 +83,8 @@
   ],
   "wallpapers": [
 
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/0c/08/ce/0c08ce4814532e06776a39f368daebb9.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/02/5b/3e/025b3e8358f8fe3d619700aae9e2b3a8.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/dd/7a/c2/dd7ac290b642a4b8dfdb909f7307aac0.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/27/80/e8/2780e8d9d765d06ceddc0897d5c4e91b.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/c2/21/d7/c221d7bead8dd2b8cb4ff65004d2ad81.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/34/09/53/34095315da2e6b94a2e1753e4ee11dcc.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/e4/ff/89/e4ff893629dd9bb8636690a67c365a14.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/b5/53/e1/b553e169b58f2930c62c344b2789a49b.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/d6/51/e7/d651e71899cfdcee510d6246bd5d5cce.jpg"
-    },
-  {
-      "wallpaper_id": 1,
-      "category_name": "Silly Smiles",
-      "wallpaper_name": "...",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://i.pinimg.com/originals/84/5a/bb/845abb199abff27289f8fed0450ac75e.jpg"
-    },
-  {
+
+     {
       "wallpaper_id": 1,
       "category_name": "Silly Smiles",
       "wallpaper_name": "...",
@@ -245,6 +176,78 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url": "https://i.pinimg.com/originals/b0/25/b8/b025b84fa1fec63928f7d0062fe44b72.jpg"
     },
+    
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/0c/08/ce/0c08ce4814532e06776a39f368daebb9.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/02/5b/3e/025b3e8358f8fe3d619700aae9e2b3a8.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/7a/c2/dd7ac290b642a4b8dfdb909f7307aac0.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/27/80/e8/2780e8d9d765d06ceddc0897d5c4e91b.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/c2/21/d7/c221d7bead8dd2b8cb4ff65004d2ad81.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/34/09/53/34095315da2e6b94a2e1753e4ee11dcc.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/e4/ff/89/e4ff893629dd9bb8636690a67c365a14.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/b5/53/e1/b553e169b58f2930c62c344b2789a49b.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/d6/51/e7/d651e71899cfdcee510d6246bd5d5cce.jpg"
+    },
+  {
+      "wallpaper_id": 1,
+      "category_name": "Silly Smiles",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://i.pinimg.com/originals/84/5a/bb/845abb199abff27289f8fed0450ac75e.jpg"
+    },
+ 
   {
       "wallpaper_id": 1,
       "category_name": "Silly Smiles",
