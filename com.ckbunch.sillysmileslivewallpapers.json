@@ -37,9 +37,9 @@
       "fan_native_unit_id": "YOUR_PLACEMENT_ID",
       "startapp_app_id": "0",
       
-      "unity_game_id": "4089993",
-      "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
+      "unity_game_id": "5539764",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
       
       "applovin_banner_unit_id": "2a48a8c3d4b91fe7",
       "applovin_interstitial_unit_id": "8735f5ab49ae175e",
