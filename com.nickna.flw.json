@@ -1,0 +1,2436 @@
+{
+  "apps": [
+    {
+      "status": true,
+      "featured_categories": "Silly Smiles",
+      "show_wallpaper_name": true,
+      "show_wallpaper_category": true,
+      "show_favorite_button_in_wallpaper_list": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_vpn_access": true,
+      "enable_dark_mode_as_default_theme": true,
+      "enable_more_apps": true,
+      "redirect_url": "",
+      "privacy_policy_url": "https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/wallpaper.html",
+      "vpn_url_controller" :"https://raw.githubusercontent.com/afortnitegenerator/jibekgari/refs/heads/main/vpn_com.ckbunch.sillysmileslivewallpapers.json"
+    }
+  ],
+
+  
+  "ads": [
+    {
+      "ad_status": true,
+      "main_ad": "unity",
+      "backup_ad": "unity",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "alien_ads_banner_unit_id": "testing",
+      "alien_ads_interstitial_unit_id": "testing",
+      "alien_ads_native_unit_id": "testing",
+      "fan_banner_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_interstitial_unit_id": "YOUR_PLACEMENT_ID",
+      "fan_native_unit_id": "YOUR_PLACEMENT_ID",
+      "startapp_app_id": "0",
+      
+      "unity_game_id": "5539764",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      
+      "applovin_banner_unit_id": "2a48a8c3d4b91fe7",
+      "applovin_interstitial_unit_id": "8735f5ab49ae175e",
+      "applovin_native_manual_unit_id": "78ae68a6de8c4ef3",
+      "applovin_open_ad_unit_id": "4ad3e698efc14720",
+      
+      
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index_grid2": 4,
+      "native_ad_index_grid3": 9,
+      "native_ad_interval_grid2": 9,
+      "native_ad_interval_grid3": 13,
+      "native_ad_style_wallpaper_list": "large",
+      "native_ad_style_exit_dialog": "medium",
+      "show_banner_ad_home": true,
+      "show_banner_ad_wallpaper_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_wallpaper_list": true,
+      "show_interstitial_ad_wallpaper_details": true,
+      "show_native_ad_wallpaper_list": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+
+
+
+"categories": [
+    {
+      "category_id": 1,
+      "category_name": "Silly Smiles",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
+    }
+    
+  ],
+  
+
+
+
+  "wallpapers": [
+
+  
+   
+  
+
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/313/387/HD-wallpaper-fire-ff-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/369/896/HD-wallpaper-fire-garena-cobra-bundle.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/214/1012/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/994/374/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/643/738/HD-wallpaper-garena-fire-logo-magenta-symbol.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/727/365/HD-wallpaper-samurai-fire-fire-fire-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/781/192/HD-wallpaper-fire-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/245/843/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/470/200/HD-wallpaper-dj-alok-fire-fire-garena-dj-alok-avatar.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/455/368/HD-wallpaper-fire-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/51/520/HD-wallpaper-fire-ff-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/943/263/HD-wallpaper-fire-wings-boy-alok-bundle-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/253/434/HD-wallpaper-garena-fire-cartoon-logo.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/223/49/HD-wallpaper-fire-3d-bundle-black-boy-ff-garena-red-wings.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1012/329/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/870/900/HD-wallpaper-fire-fire-garena-garena-fire-rey-calavera.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/286/852/HD-wallpaper-ff-dangerous-bunny-easter-garena-bunny-easter-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/546/263/HD-wallpaper-fire-elite-pass-ff-gaming-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/275/20/HD-wallpaper-garena-fire-fire-fire-logo-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/501/877/HD-wallpaper-fire-color-logo-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/921/456/HD-wallpaper-dj-alok-dj-alok-avatar-animation-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/233/352/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/873/299/HD-wallpaper-fire-battlegrounds-dj-alok-dj-alok-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/857/843/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/241/204/HD-wallpaper-real-dj-alok-dj-alok-video-fame-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/314/474/HD-wallpaper-dj-alok-avatar-dj-alok-cool-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/583/57/HD-wallpaper-fire-rampage-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/740/377/HD-wallpaper-fire-alok-cruz4nd-fire-fire-garena-iphone-samsung-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/328/677/HD-wallpaper-lovely-fire-anime-beautiful-fire-garena-garena-fire-kiss-love-pubg.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/10/260/HD-wallpaper-garena-notora-animation-sexy-hot-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/588/293/HD-wallpaper-fire-elite-pass-fire-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1006/518/HD-wallpaper-fire-garena-game-ff.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/836/515/HD-wallpaper-angel-wings-ff-alok-blue-garena-space.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/741/1012/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/401/531/HD-wallpaper-kelly-in-action-fire-garena-gun-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/211/587/HD-wallpaper-fire-neon-fire-garena-logo-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/623/189/HD-wallpaper-kla-garena-fire-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/385/376/HD-wallpaper-hayato-fire-fire-video-game-garena-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/668/687/HD-wallpaper-fire-resident-fire-red-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/983/622/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/335/94/HD-wallpaper-garena-fire-girl-fire-animation-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/358/620/HD-wallpaper-fire-donato-garena-garena-fire-gran-maestro-heroico-red-rojo.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/237/806/HD-wallpaper-garena-game-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/254/456/HD-wallpaper-fire-9-alok-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/102/927/HD-wallpaper-kelly-fire-fire-gun-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/742/343/HD-wallpaper-fire-danger-fire-green-garena-garena-fire-green-toxic-wings.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/963/204/HD-wallpaper-alvaro-garena-fire-video-game-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/922/85/HD-wallpaper-hayato-samurai-fire-garena-animation-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/685/954/HD-wallpaper-wolfrahh-garena-fire-video-game-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1015/743/HD-wallpaper-cute-caroline-school-girl-garena-fire-character-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/255/540/HD-wallpaper-hayato-the-legendary-samurai-fire-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/566/128/HD-wallpaper-wukong-mobile-monkey-king-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/749/675/HD-wallpaper-ff-dangerous-fire-bunny-garena-fire-animated.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/946/764/HD-wallpaper-real-dj-alok-dj-alok-handsome-male-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/377/927/HD-wallpaper-wukong-the-monkey-king-monkey-king-fire-character-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/751/997/HD-wallpaper-fire-rampage-3-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/61/944/HD-wallpaper-maxim-fire-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/628/51/HD-wallpaper-fire-joker-fire-skull-golden-joker-clown-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/267/566/HD-wallpaper-kapella-in-real-fire-garena-video-game-character.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/411/634/HD-wallpaper-fire-kelly-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/259/605/HD-wallpaper-maxim-fire-fire-battleground-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/748/721/HD-wallpaper-fire-antonio-fire-garena-video-game-gangster.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/568/279/HD-wallpaper-fire-wukong-fire-garena-monkey-king-animation-character.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/223/387/HD-wallpaper-caroline-with-gun-fire-animation-school-girl-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/520/677/HD-wallpaper-fire-blue-cruz4nd-garena-green-hayato-neon-red-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/690/706/HD-wallpaper-fire-rare-bundle-garena-games.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/407/681/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/770/39/HD-wallpaper-godzilla-pubg-fre-fire-garena-kong-mar.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/754/751/HD-wallpaper-fire-fire-garena-battle-royale-game-video-game-fight-weapons.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/800/28/HD-wallpaper-dj-alok-fire-fire-dj-alok-garena-video-game-real-character.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/11/663/HD-wallpaper-maxim-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/366/1003/HD-wallpaper-fire-kla-fire-garena-fight-auay-thai.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/638/433/HD-wallpaper-fire-squad-mask-players-joker-game-fire-battleground-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/458/957/HD-wallpaper-fire-battle-garena-joker-queen.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/338/603/HD-wallpaper-kapella-fire-fire-garena-video-game-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/924/347/HD-wallpaper-real-laura-animation-garena-fire-sexy-hot-girl.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/2/440/HD-wallpaper-wukong-monkey-king-fire-garena-animation-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1018/983/HD-wallpaper-kapella-fire-fire-pop-singer-avatar-animation-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/861/928/HD-wallpaper-kla-fire-fire-fight-animation-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/769/826/HD-wallpaper-dj-alok-avatar-dj-alok-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/378/55/HD-wallpaper-hayato-fire-fire-fire-video-game-animation-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/199/92/HD-wallpaper-fire-alvaro-fire-animation-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/839/497/HD-wallpaper-garena-fire-fire-andrew-animation-avatar.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/886/309/HD-wallpaper-jota-fire-fire-animation-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/781/280/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/6/132/HD-wallpaper-steffie-fire-fire-garena-video-game-girl.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/453/354/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/683/1014/HD-wallpaper-laura-fire-fire-garena-animation-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/314/664/HD-wallpaper-fire-dead-garena-guardians-mask-war.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/985/88/HD-wallpaper-fire-battle-dead-garena-gear-space-war.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/224/962/HD-wallpaper-joseph-fire-fire-animation-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/976/539/HD-wallpaper-fire-olivia-fire-hot-sexy-video-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/48/380/HD-wallpaper-dj-alok-real-dj-alok-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/707/526/HD-wallpaper-patente-mestre-fire-fire-game-garena-platina-raul-paulo.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/204/213/HD-wallpaper-falco-wolfrahh-falco-wolfrahh-fire-animation-video-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/85/554/HD-wallpaper-a124-robot-fire-garena-video-game-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/407/954/HD-wallpaper-shani-fire-fire-animation-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/953/402/HD-wallpaper-sea-fire-bundle-boy-electrical-fire-garena-murderer-violet-wings.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/71/536/HD-wallpaper-laura-special-agent-sexy-hot-girl-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/394/16/HD-wallpaper-fire-battle-royale-battlegrounds-garena-guns-uptade.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/197/248/HD-wallpaper-fire-battle-royale-battlegrounds-garena-guns-uptade.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/377/303/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/377/180/HD-wallpaper-fire-rampage-2-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/685/569/HD-wallpaper-alvaro-fire-fire-garena-demolitionist-animation-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/976/762/HD-wallpaper-fire-end-game-battle-royale-end-game-fire-games-garena-juegos-pelicula-scar-videojuegos.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/249/472/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/702/337/HD-wallpaper-fire-amoled-cruz4nd-fondo-fire-fire-garena-iphone-logo-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/852/818/HD-wallpaper-fire-garena-juegos-squad-duo-guerra-multiplayer.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/974/136/HD-wallpaper-nikita-fire-fire-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/392/468/HD-wallpaper-fire-dark-oscuro-miedo-knight-joker-heroico-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/774/432/HD-wallpaper-laura-the-special-agent-special-agent-animation-fire-garena-sexy.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/245/902/HD-wallpaper-fire-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/405/22/HD-wallpaper-antonio-fire-fire-gangster-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/39/242/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/94/778/HD-wallpaper-fire-dead-garena-war.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/934/875/HD-wallpaper-kapella-twins-fire-garena-video-game-avatar.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/88/1019/HD-wallpaper-fire-elite-hayato-ff-gaming-garena-hayato.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/802/454/HD-wallpaper-fire-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/335/980/HD-wallpaper-hayato-fire-character-fire-garena-fire-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/38/14/HD-wallpaper-kia-muay-thai-muay-thai-fire-fire-garena-fight-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1016/110/HD-wallpaper-fire-ff-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/726/765/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/319/317/HD-wallpaper-moco-in-attitude-the-hacker-hot-sexy-girl-fire-animation-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/74/866/HD-wallpaper-fire-egipto-garena-battlegrounds-battle-royale-war.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/498/713/HD-wallpaper-caroline-hot-sexy-school-girl-garena-animation-character-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/247/855/HD-wallpaper-beautiful-ff-angel-blue-garena-girl-gurl-pace-white-wings.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/275/800/HD-wallpaper-andrew-fire-fire-animation-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/867/555/HD-wallpaper-mp40-fire-fire-fire-mp40-fire-weapon-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/337/342/HD-wallpaper-laura-in-action-agent-fire-garena-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/816/163/HD-wallpaper-moco-garena-fire-the-hacker-video-game-animation-hacker.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/896/12/HD-wallpaper-patente-mestre-fire-fire-game-garena-raul-paulo.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/870/165/HD-wallpaper-fire-fire-panda-fu-games-garena-garena-fire-kung-panda.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/221/766/HD-wallpaper-fire-special-alok-angle-bundle-garena-girl-gurl-red-trend-wings.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/939/39/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/16/182/HD-wallpaper-alvaro-the-wild-character-animation-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/905/795/HD-wallpaper-fire-fire-garena-juegos-batallas-squad-duo.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/908/166/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/14/206/HD-wallpaper-garena-fire-games-themysterygamer.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/467/387/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/239/77/HD-wallpaper-ff-2-anniversary-battle-fire-garena-the-donato.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/845/829/HD-wallpaper-garena-moco-fire-animation-video-game-hacker-sexy.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/417/956/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/339/505/HD-wallpaper-%E2%9D%A3%EF%B8%8F-fire-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/337/441/HD-wallpaper-weapons-fire-ak47-akm-fire-garena-garena-fire-m4-m416-m79-mp40-weapon-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/663/504/HD-wallpaper-fire-army-battle-royale-battlegrounds-cat-fortnite-garena-pubg-tencent.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/921/15/HD-wallpaper-fire-fire-gaming-garena-garena-fire-garenfire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/230/817/HD-wallpaper-fire-ff-fire-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/424/849/HD-wallpaper-misha-with-the-cap-fire-animation-hot-cute-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/565/88/HD-wallpaper-fire-alok-cruz4nd-fire-garena-gran-maestro-hacker-heroico-pase-elite-samsung-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/568/894/HD-wallpaper-fire-lover-ff-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/810/884/HD-wallpaper-maloch-aov-arenaofvalor-game-garena-gov-moba.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/338/447/HD-wallpaper-fire-alok-amoled-cruz4nd-fire-fire-garena-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/914/899/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/641/609/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/641/944/HD-wallpaper-andrew-police-fire-garena-video-game-character.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/466/400/HD-wallpaper-moco-the-hacker-fire-garena-video-game-character.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/338/757/HD-wallpaper-fire-cruz4nd-fire-fire-garena-pase-elite-paseelite-revenge-smirlofv-verde.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/820/357/HD-wallpaper-caroline-fire-mania-fire-mania-fire-garena-hot-sexy.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/143/262/HD-wallpaper-fire-battle-royale-battlegrounds-game-garena-guns-uptade.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/534/302/HD-wallpaper-a124-fire-fire-robot-technology-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/740/750/HD-wallpaper-fire-lover-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/739/239/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/982/974/HD-wallpaper-caroline-hot-fire-garena-fire-mania-video-game-real-sexy.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/822/838/HD-wallpaper-rafael-fire-fire-garena-animation-video-game-killer-deadly.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/271/714/HD-wallpaper-fire-diablo-fire-fire-garena-incubadora-pase-elite-red-samurai-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/996/687/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/253/527/HD-wallpaper-fire-gamer-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/258/832/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/368/99/HD-wallpaper-steffie-fire-animation-garena-girl.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/202/492/HD-wallpaper-fire-arms-battle-royale-call-of-duty-elitepass-fortnite-garena-newuptade-wars.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/6/912/HD-wallpaper-fire-cruz4nd-fire-garena-neon-rainbow-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/575/910/HD-wallpaper-notora-fire-fire-animation-sexy-girl-garena-video-game-character.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/73/771/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/571/551/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/471/790/HD-wallpaper-fire-miguel-fire-garena-commander-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/597/762/HD-wallpaper-fire-jota-fire-animation-video-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/164/506/HD-wallpaper-fire-plaga-cruz4nd-doctor-fire-garena-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1020/984/HD-wallpaper-fire-alok-pink-wings-fire-character-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/526/656/HD-wallpaper-skull-fire-cruz4nd-fire-garena-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/182/772/HD-wallpaper-fire-rampage-4-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1013/317/HD-wallpaper-lubu-aov-arenaofvalor-game-garena-gov-moba.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/331/563/HD-wallpaper-fire-walpaper-action-battle-royale-fire-games-garena-war.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/386/898/HD-wallpaper-garena-fire-miguel-fire-army-commander.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/549/745/HD-wallpaper-hot-steffie-fire-fire-garena-video-game-girl.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/926/900/HD-wallpaper-fire-ff-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/820/354/HD-wallpaper-misha-cool-hot-fire-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/598/84/HD-wallpaper-fire-alok-black-cruz4nd-fire-fire-garena-red-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/480/470/HD-wallpaper-real-life-caroline-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/899/411/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/527/337/HD-wallpaper-antonio-the-gangster-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/98/591/HD-wallpaper-steffie-the-graffiti-artist-graffiti-artist-fire-animation-video-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/952/272/HD-wallpaper-garena-andrew-animation-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/549/920/HD-wallpaper-fire-battle-royale-battlegrounds-garena-guns-uptade.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/231/324/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/658/86/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/282/96/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/513/483/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/22/35/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/454/272/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/398/584/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/503/107/HD-wallpaper-misha-garena-video-game-fire-hot-sexy-racer.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/506/911/HD-wallpaper-fire-steffie-real-fire-video-game-hot-girl-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/124/196/HD-wallpaper-fire-cobra-garena-fire-cobra-still-fire-game-cobra.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/597/342/HD-wallpaper-misha-fire-fire-fire-boat-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/969/463/HD-wallpaper-hot-olivia-fire-fire-nurse-garena-sexy.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/374/979/HD-wallpaper-fire-kla-cruz4nd-fire-garena-kla-smirlofc.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/538/743/HD-wallpaper-paloma-fire-garena-girl-sexy.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/612/453/HD-wallpaper-paloma-fire-fire-sexy-hot-garena-arms-queen.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/683/350/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/346/392/HD-wallpaper-fire-gamer-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/989/895/HD-wallpaper-fire-ford-fire-video-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/398/525/HD-wallpaper-joseph-fire-garena-animation-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/475/888/HD-wallpaper-shao-god-master-elgato-fire-fire-garena-gideemsd-kahn-skull.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/940/6/HD-wallpaper-paloma-the-arms-queen-arms-queen-sexy-hot-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/419/546/HD-wallpaper-fire-character-djalok-game-garena-lover-pubg-rasel.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/282/747/HD-wallpaper-a124-fire-fire-animation-garena-robot.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/832/536/HD-wallpaper-steffie-with-the-gun-fire-fire-garena-girl-video-game-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/886/827/HD-wallpaper-fire-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/736/125/HD-wallpaper-miguel-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/692/592/HD-wallpaper-fire-garena-players.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/626/3/HD-wallpaper-fire-amoled-cruz4nd-fire-garena-heroico-samsung-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/197/950/HD-wallpaper-rafael-garena-fire-deadly-killer-animation-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/841/457/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/468/969/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/538/563/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/724/816/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/169/893/HD-wallpaper-nikita-the-devil-video-game-garena-fire-fire-sexy-hot-girl.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/644/665/HD-wallpaper-hot-notora-animation-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1000/161/HD-wallpaper-fire-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/122/389/HD-wallpaper-fire-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/543/948/HD-wallpaper-lcdp-fire-fire-garena-lcdp-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/515/980/HD-wallpaper-paloma-in-jacket-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/199/854/HD-wallpaper-rafael-fire-animation-garena-video-game-deadly-killer.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/67/304/HD-wallpaper-fire-ff-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/929/430/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/350/446/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/516/825/HD-wallpaper-a-124-a-124-fire-animation-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/10/895/HD-wallpaper-real-antonio-gangster-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/728/523/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/169/448/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/954/305/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/910/26/HD-wallpaper-fire-gamer-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/853/623/HD-wallpaper-fire-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/720/722/HD-wallpaper-cool-shani-animation-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/605/592/HD-wallpaper-fire-alok-amoled-cruz4nd-fire-fire-garena-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/161/919/HD-wallpaper-fire-garena-game-world-cup.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/19/705/HD-wallpaper-nikita-the-bodyguard-garena-fire-fire-video-game-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/78/640/HD-wallpaper-fire-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/917/570/HD-wallpaper-ford-fire-fire-garena-animation.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/53/7/HD-wallpaper-fire-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/55/173/HD-wallpaper-fire-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/509/151/HD-wallpaper-fire-fire-garena-fire-ice-garena-garena-fire-heroico-ice.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/90/821/HD-wallpaper-summer-fire-1-game-fire-scar-titan-garena-new.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/227/324/HD-wallpaper-artist-steffie-fire-fire-graffiti-girl-video-game-animation-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/210/881/HD-wallpaper-engineer-shani-fire-garena-animation-sexy-girl.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/228/803/HD-wallpaper-gardelero-accion-fire-garena-joker-portal-real.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/58/421/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/131/2/HD-wallpaper-fire-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/638/152/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/709/665/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/83/608/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/1015/216/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/463/866/HD-wallpaper-fire-cruz4nd-fondo-fire-garena-iphone-samsung-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/146/690/HD-wallpaper-fire-dj-fire-fire-dj-fire-garena-garanea-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/518/22/HD-wallpaper-fire-best-garena-fire-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/704/756/HD-wallpaper-olivia-hot-fire-garena-video-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/82/592/HD-wallpaper-fire-ff-gaming-garena-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/747/364/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/293/532/HD-wallpaper-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/118/552/HD-wallpaper-fire-amarillo-cruz4nd-fire-fire-garena-gran-maestro-hacker-pase-elite-skin-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/345/793/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/471/341/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/755/93/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/318/414/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/959/47/HD-wallpaper-fire-game-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/502/29/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/861/621/HD-wallpaper-fire-garena-game.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/545/106/HD-wallpaper-fire-gamer-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/570/16/HD-wallpaper-commander-miguel-fire-garena.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/389/319/HD-wallpaper-fire-anime-game-garena-neon-sign.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/573/11/HD-wallpaper-clangsx-batleroyale-clan-fire-garena-gsx.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/415/989/HD-wallpaper-fire-end-game-garena-end-game-fire-war.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/417/1020/HD-wallpaper-fire-blue-cruz4nd-fire-fire-garena-incubadora-skin-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/527/20/HD-wallpaper-fire-gun-garena-fire-fire-gun-garena-fire-game-anime.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/590/581/HD-wallpaper-fire-azul-blue-cruz4nd-fire-fire-garena-green-morado-smirlofv-verde.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/991/766/HD-wallpaper-fire-alok-amoled-cruz4nd-fondos-fire-fondos-para-fire-fire-garena-neon-smirlofv.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/452/312/HD-wallpaper-fire-new-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/795/968/HD-wallpaper-fire-new-garena-fire-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/875/371/HD-wallpaper-fire-new-garena-fire-garena-fire.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/891/63/HD-wallpaper-fire-best-misha-garena-fire-dragon.jpg"
+    },
+  
+{
+      "wallpaper_id": 1,
+      "category_name": "FFF",
+      "wallpaper_name": "...",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://w0.peakpx.com/wallpaper/505/468/HD-wallpaper-fire-alok-garena-fire-fire-character-animated-fire.jpg"
+    }
+  
+
+
+
+
+  ]
+}
