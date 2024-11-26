@@ -7,7 +7,7 @@
       "show_wallpaper_category": true,
       "show_favorite_button_in_wallpaper_list": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": true,
+      "enable_exit_dialog": false,
       "enable_vpn_access": true,
       "enable_dark_mode_as_default_theme": true,
       "enable_more_apps": true,
@@ -102,7 +102,7 @@
     {
       "category_id": 1,
       "category_name": "Silly Smiles",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
+      "category_image": "https://i.pinimg.com/originals/ea/bf/9b/eabf9b14f005556971d465f0875a8619.jpg"
     }
     
   ],
