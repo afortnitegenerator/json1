@@ -19,8 +19,8 @@
   "ads": [
     {
       "ad_status": true,
-      "main_ad": "applovin_max",
-      "backup_ad": "applovin_max",
+      "main_ad": "unity",
+      "backup_ad": "unity",
       
       
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
@@ -48,9 +48,9 @@
       "startapp_app_id": "0",
       
       
-      "unity_game_id": "4089993",
-      "unity_banner_placement_id": "banner",
-      "unity_interstitial_placement_id": "video",
+      "unity_game_id": "5862021",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
       
       
       "applovin_banner_unit_id": "111d4bdeccf7c6a2",
@@ -76,7 +76,7 @@
       "wortise_app_open_id": "test-app-open",
       
       
-      "interstitial_ad_interval": 3,
+      "interstitial_ad_interval": 1,
       "native_ad_index_grid2": 4,
       "native_ad_index_grid3": 9,
       "native_ad_interval_grid2": 9,
